@@ -7,9 +7,11 @@
 ![Upi Transaction  (6)](https://github.com/user-attachments/assets/99a7da33-16d9-4eed-ba39-e70aedf13f73)
 ![Upi Transaction  (7)](https://github.com/user-attachments/assets/ee5af1a9-4ec7-4d14-866a-9fb8ae166d55)
 
-![Screenshot (28)](https://github.com/user-attachments/assets/bd1d325c-5395-4c29-b18c-698da688c485)
-![Screenshot (29)](https://github.com/user-attachments/assets/017057a2-141b-4b4a-88aa-2a5067913d51)
-![Screenshot (30)](https://github.com/user-attachments/assets/4100960f-8936-4483-b03f-493713a01b8e)
+![Screenshot (28)](https://github.com/user-attachments/assets/d94ec91e-bd85-4ab9-8f20-57659fca7932)
+![Screenshot (29)](https://github.com/user-attachments/assets/1fd2ed6b-446f-4b26-a6ec-f2759c27c33f)
+![Screenshot (30)](https://github.com/user-attachments/assets/f51ce9f9-2b03-40bb-a6a5-dab79ae49aae)
+
+
 
 🧾 UPI Transaction Dashboard (Power BI + SQL)
 This project is a Power BI dashboard designed to analyze UPI (Unified Payments Interface) transactions. The data is sourced via SQL and visualized with Power BI to provide insights into transaction behavior and trends.
