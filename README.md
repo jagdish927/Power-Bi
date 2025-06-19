@@ -55,3 +55,155 @@ Power BI (Dashboard & Visuals)
 SQL (Data Extraction)
 
 PBIT format (template for easy sharing/reuse
+
+
+![Coffee Sales Analysis Dashboard](https://github.com/user-attachments/assets/255fbab6-5741-4342-9e65-23a93dcb51cd)
+
+
+☕ Coffee Sales Dashboard (Power BI)
+This Power BI project presents a comprehensive overview of coffee sales performance, enabling better business decisions through interactive analytics and visual storytelling.
+
+📂 Data Overview
+Sales data for various coffee products
+
+Dimensions may include:
+
+Product name
+
+Region or country
+
+Sales amount
+
+Profit and cost
+
+Date of transaction
+
+📊 Visualizations
+The dashboard typically includes:
+
+Bar and column charts (sales by product or region)
+
+Line charts (trends over time)
+
+Pie/donut charts (product share or regional breakdown)
+
+Cards/KPIs (total sales, profit, units sold)
+
+🧠 Key Insights
+Identify top-performing products and regions
+
+Track sales trends over time
+
+Compare cost vs revenue
+
+Analyze seasonal or regional demand patterns
+
+💻 Tools Used
+Power BI Desktop
+
+DAX for calculated measures
+
+SQL or Excel as data source
+
+
+![Prisum Insurance Insights Dashboard](https://github.com/user-attachments/assets/e4bad8f6-5ddf-4ce7-9d7a-5013266e5221)
+
+📦 Primiyam Analytics Dashboard (Power BI)
+This project is a Power BI dashboard designed for business intelligence and performance monitoring, tailored to "Primiyam" operations—likely focused on internal metrics, productivity, or financials.
+
+📂 Data Overview
+Data loaded via SQL or Excel (as inferred from .pbit structure)
+
+Expected key dimensions:
+
+Departments or teams
+
+KPI categories (sales, cost, efficiency, etc.)
+
+Time (monthly/quarterly granularity)
+
+Status or workflow stages
+
+📊 Visualizations
+The dashboard may include:
+
+Cards/KPIs (high-level metrics)
+
+Bar/Column charts (category breakdowns)
+
+Line charts (trend analysis)
+
+Tables (detailed view by filter)
+
+🧠 Key Insights
+Monitor operational or financial KPIs
+
+Compare department/team performance
+
+Identify trends, bottlenecks, or anomalies
+
+Support decision-making with real-time visuals
+
+💻 Tools Used
+Power BI Desktop
+
+SQL (likely for backend queries)
+
+DAX (for calculated measures)
+
+.pbit template format for reuse and parameterization
+
+![Screenshot (31)](https://github.com/user-attachments/assets/87cc9426-2358-4dd1-bd55-4655cc97302a)
+
+
+🍽️ Zomato Sales & Delivery Dashboard (Power BI)
+This Power BI dashboard analyzes food delivery data—providing insights into orders, revenue, customer behavior, and performance of restaurants listed on Zomato.
+
+📂 Data Overview
+Food delivery transactions
+
+Fields may include:
+
+Restaurant name
+
+Order count and value
+
+Delivery time
+
+Customer ratings
+
+City/region
+
+Order date
+
+📊 Visualizations
+Common visual elements:
+
+KPI cards (total orders, revenue, ratings)
+
+Bar/column charts (orders by city or restaurant)
+
+Maps (geographic performance)
+
+Line charts (trends in orders or revenue)
+
+Pie charts (category breakdowns)
+
+🧠 Key Insights
+Identify top restaurants by sales and reviews
+
+Monitor delivery performance by city
+
+Analyze order trends and customer feedback
+
+Optimize operations by visualizing bottlenecks
+
+💻 Tools Used
+Power BI Desktop
+
+DAX for calculated insights
+
+SQL or CSV as data source
+
+.pbix format for full dashboard design
+
